@@ -11,4 +11,4 @@ packages
 android/key.properties
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
-**/*.iml
+android.iml

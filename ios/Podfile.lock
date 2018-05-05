@@ -110,9 +110,9 @@ PODS:
 
 DEPENDENCIES:
   - cloud_firestore (from `Pods/.symlinks/plugins/cloud_firestore-0.6.3/ios`)
-  - firebase_auth (from `Pods/.symlinks/plugins/firebase_auth-0.5.5/ios`)
+  - firebase_auth (from `Pods/.symlinks/plugins/firebase_auth-0.5.7/ios`)
   - firebase_core (from `Pods/.symlinks/plugins/firebase_core-0.2.3/ios`)
-  - Flutter (from `Pods/.symlinks/flutter/ios`)
+  - Flutter (from `Pods/.symlinks/flutter/ios-release`)
   - google_sign_in (from `Pods/.symlinks/plugins/google_sign_in-3.0.3/ios`)
   - url_launcher (from `Pods/.symlinks/plugins/url_launcher-3.0.0/ios`)
 
@@ -120,11 +120,11 @@ EXTERNAL SOURCES:
   cloud_firestore:
     :path: Pods/.symlinks/plugins/cloud_firestore-0.6.3/ios
   firebase_auth:
-    :path: Pods/.symlinks/plugins/firebase_auth-0.5.5/ios
+    :path: Pods/.symlinks/plugins/firebase_auth-0.5.7/ios
   firebase_core:
     :path: Pods/.symlinks/plugins/firebase_core-0.2.3/ios
   Flutter:
-    :path: Pods/.symlinks/flutter/ios
+    :path: Pods/.symlinks/flutter/ios-release
   google_sign_in:
     :path: Pods/.symlinks/plugins/google_sign_in-3.0.3/ios
   url_launcher:
