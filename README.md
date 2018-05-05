@@ -1,2 +1,2 @@
-# Task.al mobile apps (Aandroid & iOS) build with Flutter
+# Task.al mobile apps (Android & iOS) build with Flutter
 Readme coming soon...
