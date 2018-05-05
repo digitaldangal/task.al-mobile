@@ -1,0 +1,14 @@
+.DS_Store
+.atom/
+.idea
+.vscode/
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+.metadata
+.flutter-plugins
+android/key.properties
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
