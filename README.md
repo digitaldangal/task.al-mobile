@@ -38,7 +38,7 @@ Note: We plan to write better instructions here for configuring Firebase/Google-
 Download/copy all files from the `lib` directory on this repository and replace on your local project.
 
 
-and finally use the following command to run the application on your device/emulator
+Finally use the following command to run the application on your device/emulator
 
 ```
 flutter run
